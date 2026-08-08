@@ -26,7 +26,7 @@ My current focus combines this enterprise experience with backend and AI platfor
 **[Neura-RAG](https://github.com/hsharshshukla/Neura-RAG)**  
 RAG-based knowledge retrieval application exploring document ingestion, semantic retrieval, vector search, and conversational access to information.
 
-**Applied AI Labs**  
+**[Applied AI Labs](https://github.com/hsharshshukla/Applied-AI-Labs)**  
 Hands-on implementations across NLP, machine learning, embeddings, vector databases, and Generative AI using Python, OpenAI, Hugging Face, Pinecone, and ChromaDB.
 
 ### Backend & Application Development
@@ -65,13 +65,13 @@ I am particularly interested in the engineering challenges around **architecture
 
 **Backend:** Python, Django, FastAPI, REST APIs
 
-**Data:** PostgreSQL, relational databases, enterprise information repositories
+**AI / ML:** Machine Learning, NLP, Generative AI, RAG, Embeddings, Vector Databases, LLM Applications, AI Agents
 
-**AI:** Generative AI, RAG, LLM integration, information retrieval, document processing
+**Data:** PostgreSQL, relational databases, vector databases, enterprise information repositories
 
 **Engineering:** System Design, OOP, Design Patterns, Data Structures & Algorithms
 
-**Platforms:** Docker, Kubernetes, Git, CI/CD, Enterprise Applications
+**Platforms & Tools:** Docker, Kubernetes, Git, CI/CD, Enterprise Applications
 
 ## Background
 
