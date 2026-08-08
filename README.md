@@ -15,8 +15,10 @@ My current focus combines this enterprise experience with backend and AI platfor
 - System Design and Low-Level Design
 - PostgreSQL and data modelling
 - Generative AI and Retrieval-Augmented Generation (RAG)
+- Vector databases and semantic retrieval
+- AI agents and LLM applications
 - Enterprise knowledge and information platforms
-- Docker, Kubernetes, and deployment fundamentals
+- Docker, Kubernetes, and deployment
 - Data Structures and Algorithms
 
 ## Selected Work
@@ -24,10 +26,10 @@ My current focus combines this enterprise experience with backend and AI platfor
 ### AI & Knowledge Platforms
 
 **[Neura-RAG](https://github.com/hsharshshukla/Neura-RAG)**  
-RAG-based knowledge retrieval application exploring document ingestion, semantic retrieval, vector search, and conversational access to information.
+Full-stack RAG application combining document ingestion, semantic retrieval, vector search, FastAPI APIs, PostgreSQL, Qdrant, authentication, analytics, observability, and a React frontend.
 
 **[Applied AI Labs](https://github.com/hsharshshukla/Applied-AI-Labs)**  
-Hands-on implementations across NLP, machine learning, embeddings, vector databases, and Generative AI using Python, OpenAI, Hugging Face, Pinecone, and ChromaDB.
+Hands-on implementations across NLP, Machine Learning, embeddings, vector databases, and Generative AI using Python, OpenAI, Hugging Face, Pinecone, and ChromaDB.
 
 ### Backend & Application Development
 
@@ -35,7 +37,7 @@ Hands-on implementations across NLP, machine learning, embeddings, vector databa
 Backend service development and API-oriented application design.
 
 **[DasMach](https://github.com/hsharshshukla/DasMach)**  
-Prototype used-car marketplace exploring web application architecture and marketplace workflows.
+Django-based used-car marketplace prototype exploring full-stack web application architecture and marketplace workflows.
 
 ### Engineering & Problem Solving
 
@@ -43,35 +45,56 @@ Prototype used-car marketplace exploring web application architecture and market
 Data structures, algorithms, and structured problem-solving practice.
 
 **[SmartContractL](https://github.com/hsharshshukla/SmartContractL)**  
-Hands-on exploration of smart contracts and blockchain application concepts.
+Hands-on exploration of blockchain applications using Solidity, Brownie, Chainlink, Web3, smart contracts, oracle integrations, and automated testing.
 
 ## What I'm Building Now
 
-My current work is focused on applying software engineering and AI techniques to enterprise-scale problems, including:
+My current work is focused on applying backend engineering and AI techniques to enterprise-scale problems, including:
 
 - Backend services and APIs
 - Enterprise search and knowledge retrieval
 - Retrieval-Augmented Generation (RAG)
 - AI-assisted document and information processing
 - Classification and automation pipelines
+- Vector retrieval and semantic search
 - Scalable information storage and retrieval
 - Secure enterprise application integration
+- AI agents and agentic workflows
 
-I am particularly interested in the engineering challenges around **architecture, retrieval quality, system reliability, data flows, security, scalability, and maintainability**.
+I am particularly interested in the engineering challenges around **architecture, retrieval quality, system reliability, data flows, security, scalability, observability, and maintainability**.
 
 ## Technology
 
-**Languages:** Python, SQL, ABAP, JavaScript
+**Languages:** Python, SQL, JavaScript
 
-**Backend:** Python, Django, FastAPI, REST APIs
+**Backend:** FastAPI, Django, REST APIs, SQLAlchemy, Alembic
 
 **AI / ML:** Machine Learning, NLP, Generative AI, RAG, Embeddings, Vector Databases, LLM Applications, AI Agents
 
-**Data:** PostgreSQL, relational databases, vector databases, enterprise information repositories
+**AI Frameworks:** LangChain, LlamaIndex
+
+**Data:** PostgreSQL, Qdrant, ChromaDB, relational databases, vector databases
 
 **Engineering:** System Design, OOP, Design Patterns, Data Structures & Algorithms
 
-**Platforms & Tools:** Docker, Kubernetes, Git, CI/CD, Enterprise Applications
+**Platforms & Tools:** Docker, Kubernetes, Git, CI/CD, OpenTelemetry
+
+## Professional Development
+
+- **IBM RAG and Agentic AI Professional Certificate — IBM / Coursera**  
+  In progress — 6 of 10 courses completed
+
+- **Machine Learning — Coursera**  
+  Completed
+
+Current IBM RAG and Agentic AI coursework includes:
+
+- Develop Generative AI Applications
+- Build RAG Applications
+- Vector Databases for RAG
+- Advanced RAG with Vector Databases and Retrievers
+- Build Multimodal Generative AI Applications
+- Fundamentals of Building AI Agents
 
 ## Background
 
@@ -81,4 +104,4 @@ That experience continues to shape how I approach software systems today — par
 
 ---
 
-Currently building deeper expertise in **Backend Engineering, AI Platforms, System Design and scalable enterprise applications**.
+Focused on **Backend Engineering, AI Platforms, System Design and scalable enterprise applications**.
