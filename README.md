@@ -10,13 +10,13 @@ My current focus combines this enterprise experience with backend and AI platfor
 
 ## Current Focus
 
+- Generative AI and Retrieval-Augmented Generation (RAG)
+- AI agents and LLM applications
+- Vector databases, embeddings, and semantic retrieval
 - Python backend development
 - REST APIs and service design
 - System Design and Low-Level Design
 - PostgreSQL and data modelling
-- Generative AI and Retrieval-Augmented Generation (RAG)
-- Vector databases and semantic retrieval
-- AI agents and LLM applications
 - Enterprise knowledge and information platforms
 - Docker, Kubernetes, and deployment
 - Data Structures and Algorithms
@@ -25,41 +25,46 @@ My current focus combines this enterprise experience with backend and AI platfor
 
 ### AI & Knowledge Platforms
 
-**[Neura-RAG](https://github.com/hsharshshukla/Neura-RAG)**  
+**[Neura-RAG](https://github.com/hsharshshukla/Neura-RAG)**
+
 Full-stack RAG application combining document ingestion, semantic retrieval, vector search, FastAPI APIs, PostgreSQL, Qdrant, authentication, analytics, observability, and a React frontend.
 
-**[Applied AI Labs](https://github.com/hsharshshukla/Applied-AI-Labs)**  
+**[Applied AI Labs](https://github.com/hsharshshukla/Applied-AI-Labs)**
+
 Hands-on implementations across NLP, Machine Learning, embeddings, vector databases, and Generative AI using Python, OpenAI, Hugging Face, Pinecone, and ChromaDB.
 
 ### Backend & Application Development
 
-**[UserInfoService](https://github.com/hsharshshukla/UserInfoService)**  
+**[UserInfoService](https://github.com/hsharshshukla/UserInfoService)**
+
 Backend service development and API-oriented application design.
 
-**[DasMach](https://github.com/hsharshshukla/DasMach)**  
+**[DasMach](https://github.com/hsharshshukla/DasMach)**
+
 Django-based used-car marketplace prototype exploring full-stack web application architecture and marketplace workflows.
 
 ### Engineering & Problem Solving
 
-**[DSA](https://github.com/hsharshshukla/DSA)**  
+**[DSA](https://github.com/hsharshshukla/DSA)**
+
 Data structures, algorithms, and structured problem-solving practice.
 
-**[SmartContractL](https://github.com/hsharshshukla/SmartContractL)**  
+**[SmartContractL](https://github.com/hsharshshukla/SmartContractL)**
+
 Hands-on exploration of blockchain applications using Solidity, Brownie, Chainlink, Web3, smart contracts, oracle integrations, and automated testing.
 
 ## What I'm Building Now
 
 My current work is focused on applying backend engineering and AI techniques to enterprise-scale problems, including:
 
-- Backend services and APIs
-- Enterprise search and knowledge retrieval
-- Retrieval-Augmented Generation (RAG)
-- AI-assisted document and information processing
-- Classification and automation pipelines
-- Vector retrieval and semantic search
-- Scalable information storage and retrieval
-- Secure enterprise application integration
-- AI agents and agentic workflows
+- Generative AI and Retrieval-Augmented Generation (RAG) systems
+- AI agent architectures and agentic workflow exploration
+- Vector search, embeddings, semantic retrieval, and knowledge retrieval
+- AI-powered document processing, classification, and information extraction
+- RAG quality measurement, retrieval analytics, latency, and observability
+- Python backend services and APIs for AI applications
+- Enterprise knowledge platforms and secure AI integration
+- Scalable data, retrieval, and application architectures
 
 I am particularly interested in the engineering challenges around **architecture, retrieval quality, system reliability, data flows, security, scalability, observability, and maintainability**.
 
@@ -86,15 +91,6 @@ I am particularly interested in the engineering challenges around **architecture
 
 - **Machine Learning — Coursera**  
   Completed
-
-Current IBM RAG and Agentic AI coursework includes:
-
-- Develop Generative AI Applications
-- Build RAG Applications
-- Vector Databases for RAG
-- Advanced RAG with Vector Databases and Retrievers
-- Build Multimodal Generative AI Applications
-- Fundamentals of Building AI Agents
 
 ## Background
 
