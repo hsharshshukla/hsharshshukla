@@ -21,27 +21,29 @@ My current focus combines this enterprise experience with backend and AI platfor
 
 ## Selected Work
 
-### Backend & API Development
+### AI & Knowledge Platforms
 
-Building and experimenting with Python-based backend services, REST APIs, authentication, application architecture, and data persistence.
+**[Neura-RAG](https://github.com/hsharshshukla/Neura-RAG)**  
+RAG-based knowledge retrieval application exploring document ingestion, semantic retrieval, vector search, and conversational access to information.
 
-Public repositories include:
+**Applied AI Labs**  
+Hands-on implementations across NLP, machine learning, embeddings, vector databases, and Generative AI using Python, OpenAI, Hugging Face, Pinecone, and ChromaDB.
 
-- [UserInfoService](https://github.com/hsharshshukla/UserInfoService)
-- [DjangoRestAuth](https://github.com/hsharshshukla/DjangoRestAuth)
-- [apiPython](https://github.com/hsharshshukla/apiPython)
+### Backend & Application Development
 
-### Full-Stack Development
+**[UserInfoService](https://github.com/hsharshshukla/UserInfoService)**  
+Backend service development and API-oriented application design.
 
-Built applications while exploring backend and frontend integration using Django, React, APIs, authentication, and application workflows.
+**[DasMach](https://github.com/hsharshshukla/DasMach)**  
+Prototype used-car marketplace exploring web application architecture and marketplace workflows.
 
-- [Twitska](https://github.com/hsharshshukla/Twitska)
+### Engineering & Problem Solving
 
-### Algorithms & Problem Solving
+**[DSA](https://github.com/hsharshshukla/DSA)**  
+Data structures, algorithms, and structured problem-solving practice.
 
-Maintaining structured practice in data structures, algorithms, coding problems, and software engineering interview preparation.
-
-- [DSA](https://github.com/hsharshshukla/DSA)
+**[SmartContractL](https://github.com/hsharshshukla/SmartContractL)**  
+Hands-on exploration of smart contracts and blockchain application concepts.
 
 ## What I'm Building Now
 
