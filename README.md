@@ -87,10 +87,9 @@ I am particularly interested in the engineering challenges around **architecture
 ## Professional Development
 
 - **IBM RAG and Agentic AI Professional Certificate — IBM / Coursera**  
-  In progress — 6 of 10 courses completed
-
+  
 - **Machine Learning — Coursera**  
-  Completed
+  
 
 ## Background
 
