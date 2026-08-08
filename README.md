@@ -1,12 +1,12 @@
 # Hi, I'm Harsh Shukla
 
-**Enterprise Technology | Backend & AI Platforms | Python | APIs | System Design**
+**Enterprise Technology | Backend & AI Platforms | Python | GenAI/RAG | APIs | System Design**
 
-I have 13+ years of experience working across enterprise applications, software development, systems integration, information platforms, and technical solution delivery.
+I have 13+ years of experience across enterprise applications, software development, systems integration, information platforms, and technical solution delivery.
 
-My work has involved business-critical enterprise systems, integrations, document and information platforms, access control, application development, and production solution delivery.
+My experience spans business-critical enterprise systems, application integrations, information management, access control, backend development, and production solution delivery.
 
-I am currently expanding this experience into **backend engineering, platform design, and AI-enabled enterprise applications**, with a focus on building practical systems rather than isolated technology demos.
+My current focus combines this enterprise experience with backend and AI platform engineering — particularly Python, APIs, Retrieval-Augmented Generation (RAG), vector databases, ML/NLP, and system design.
 
 ## Current Focus
 
