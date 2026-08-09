@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harsh Shukla 👋</h1>
 
-<h3 align="center">Backend & AI Platforms Engineer | Python | GenAI/RAG | APIs | System Design</h3>
+<h3 align="center">Enterprise Technology | Backend & AI Platforms | Python | GenAI/RAG | APIs | System Design</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-13%2B%20Years-blue?style=flat-square" alt="13+ years experience"/>
@@ -120,8 +120,6 @@ I am particularly interested in the engineering challenges around **architecture
 
 **IBM RAG and Agentic AI Professional Certificate**  
 *In progress — 6 of 10 courses completed*
-
-> Add the Machine Learning credential here once its exact official certificate title and issuer are confirmed.
 
 ## 🧭 Background
 
