@@ -110,7 +110,7 @@ I am particularly interested in the engineering challenges around **architecture
 ## 📜 Certifications
 
 ### IBM / Coursera
-
+**IBM RAG and Agentic AI Professional Certificate**  
 - **Advanced RAG with Vector Databases and Retrievers**
 - **Vector Databases for RAG: An Introduction**
 - **Build RAG Applications: Get Started**
@@ -118,8 +118,6 @@ I am particularly interested in the engineering challenges around **architecture
 - **Fundamentals of Building AI Agents**
 - **Develop Generative AI Applications: Get Started**
 
-**IBM RAG and Agentic AI Professional Certificate**  
-*In progress — 6 of 10 courses completed*
 
 ## 🧭 Background
 
